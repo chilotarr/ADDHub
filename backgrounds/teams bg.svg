@@ -1,0 +1,29 @@
+<svg width="1440" height="1398" viewBox="0 0 1440 1398" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_682_13070)">
+<rect width="1440" height="700" fill="#FEFEFE"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M450.438 61.445C515.72 101.715 523.295 191.801 543.122 265.898C561.202 333.465 582.463 403.77 559.738 469.92C537.542 534.53 479.817 577.882 422.942 615.729C369.8 651.091 310.097 669.442 246.857 678.118C176.533 687.766 100.522 704.361 39.3485 668.354C-23.0994 631.597 -49.2094 557.241 -74.1151 489.193C-99.1117 420.896 -118.555 349.5 -103.386 278.372C-87.4815 203.802 -52.9224 127.732 11.6302 87.153C74.0656 47.9053 153.214 75.1046 226.835 70.7915C303.175 66.319 385.354 21.2969 450.438 61.445Z" fill="url(#paint0_linear_682_13070)"/>
+</g>
+<g clip-path="url(#clip1_682_13070)">
+<rect y="698" width="1440" height="700" fill="#FEFEFE"/>
+<circle r="49.5" transform="matrix(-1 0 0 1 1463 1047)" stroke="#FBDB67"/>
+<circle r="99.5" transform="matrix(-1 0 0 1 1413 1047)" stroke="#FBDB67"/>
+<circle r="149.5" transform="matrix(-1 0 0 1 1363 1047)" stroke="#FBDB67"/>
+<circle r="199.5" transform="matrix(-1 0 0 1 1313 1047)" stroke="#FBDB67"/>
+<circle r="249.5" transform="matrix(-1 0 0 1 1263 1047)" stroke="#FBDB67"/>
+<circle r="299.5" transform="matrix(-1 0 0 1 1213 1047)" stroke="#FBDB67"/>
+<circle r="349.5" transform="matrix(-1 0 0 1 1163 1047)" stroke="#FBDB67"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_682_13070" x1="451.222" y1="51.0604" x2="-98.6624" y2="734.701" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE7A8"/>
+<stop offset="0.303357" stop-color="#FFE7A8" stop-opacity="0.540387"/>
+<stop offset="1" stop-color="#FFE7A8" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_682_13070">
+<rect width="1440" height="700" fill="white"/>
+</clipPath>
+<clipPath id="clip1_682_13070">
+<rect width="1440" height="700" fill="white" transform="translate(0 698)"/>
+</clipPath>
+</defs>
+</svg>
